@@ -1,2 +1,2 @@
 # DataStructures
-Data Structures Codes Basics
+Data Structures Codes
